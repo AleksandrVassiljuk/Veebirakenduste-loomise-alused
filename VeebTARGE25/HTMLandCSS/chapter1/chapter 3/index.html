@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>List, Tables amd Forms</title>
+    <link rel ="stylesheet" href="css/example.css">
 </head>
 <body>
     <h1>Poerty Workshops</h1>
@@ -61,10 +62,20 @@
                 <input type="text" name="name" id="name"><br>
                 <label for="email" class="title">Your email:</label>
                 <input type="text" name="name" id="name"><br>
-                
-                
-            </p>
+                </p>
+                <p>
+                    <label for="location" class="title">Your closest cente:</label>
+                <select name="location" id="location">
+                    <option value="ny">New York</option>
+                    <option value="Il">Chicago</option>
+                    <option value="ca">San Fransisco</option>
+                    </select>
+                    <p>
+                 <span>Are you a member</span>
+                 <label><input type="radio" name="member" value="yes" />yes</label>
+                 <label><input type="radio" name="member" value="no" />no</label>
         </fieldset>
+        <div class="sumbit"><input type="submit" value="Register"></div>
     </form>
 </body>
 </html>
