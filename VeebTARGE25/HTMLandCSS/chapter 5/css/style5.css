@@ -133,3 +133,94 @@ footer {
     font-size: 80%;
     padding: 7px 0px 0px 20px;
 }
+.sushi{
+float:left;
+width:250px;
+margin-right:20px;
+}
+
+.sushi img{
+width:100%;
+}
+
+.clear{
+clear:both;
+}
+.catering {
+    float: left;
+    width: 225px;
+    margin-right: 20px;
+}
+
+.catering img {
+    width: 100%;
+}
+
+.clear {
+    clear: both;
+}
+.about-image {
+    float: left;
+    width: 220px;
+    margin-right: 20px;
+}
+
+.about-image img {
+    width: 100%;
+}
+
+.clear {
+    clear: both;
+}
+.yakitori-image {
+    float: left;
+    width: 250px;
+    margin-right: 20px;
+}
+
+.yakitori-image img {
+    width: 100%;
+}
+
+.clear {
+    clear: both;
+}
+.tsukune-image {
+    float: left;
+    width: 170px;
+    margin-right: 20px;
+}
+
+.tsukune-image img {
+    width: 100%;
+}
+
+.clear {
+    clear: both;
+}
+.okonomiyaki-image {
+    float: left;
+    width: 250px;
+    margin-right: 20px;
+}
+
+.okonomiyaki-image img {
+    width: 100%;
+}
+
+.clear {
+    clear: both;
+}
+.mizutaki-image {
+    float: left;
+    width: 250px;
+    margin-right: 20px;
+}
+
+.mizutaki-image img {
+    width: 100%;
+}
+
+.clear {
+    clear: both;
+}
